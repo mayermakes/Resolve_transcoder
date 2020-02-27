@@ -2,7 +2,9 @@
 Simple bash alias to convert .mp4 and .mov in usable video files for Davinci Resolve 16
 
 installation:
-copy .bash_aliases into home directory
+Download the file: bash_aliases 
+rename it to: .bash_aliases
+move or copy .bash_aliases into home directory
 open terminal and run:
 source ~/.bash_aliases
 
